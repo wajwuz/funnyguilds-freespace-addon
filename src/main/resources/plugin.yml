@@ -1,0 +1,6 @@
+name: FunnyGuildsAddon
+version: 1.0-SNAPSHOT
+author: michal
+main: net.michal.basic.FunnyGuildsAddon
+commands:
+  wolnemiejsce:

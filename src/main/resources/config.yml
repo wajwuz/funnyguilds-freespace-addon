@@ -1,0 +1,8 @@
+bound:
+  min: -1000 # Minimalny koordynat do generowania
+  max: 1000 # Maksymalny koordynat
+messages:
+  freeSpace: 'Lista wolnych lokalizacji na gildie' # Pierwsza wiadomosc po wpisaniu /wolnemiejsce
+  locationList: 'x: {X}, z: {Z} - odleglosc {DISTANCE} metrow.' # Lista lokalizacji o ile sa dostepne
+listSize: 10 # Ilosc lokalizacji ile moze byc w /wolnemiejsce
+generationTime: 10 # 1 = 1 sekunda
